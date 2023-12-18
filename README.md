@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQGYjcM9h75hDw/article-cover_image-shrink_600_2000/0/1680183991795?e=2147483647&v=beta&t=DCc2ugErfrGOYVIVW4TzFupgj60S8heaLOYjhxUSqpE" width="400"></a></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
@@ -102,6 +102,11 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
    - Or run git clone https://github.com/cafeway/Restify-Laravel-Api 
 
 ## Install dependancies
+2. Run cd laravel-restify-api-hub && composer install
+   - OR run
+       - cd laravel-restify-api-hub 
+       - composer install
+
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
